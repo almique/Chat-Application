@@ -19,4 +19,4 @@ Whatsapp Web UI Clone User Interface made with React, React hooks and Faker for 
 7. Messages are also sorted on the basis of date and time in contact list as well.
 
 # Deployed On Heroku 
-Link - https://whispering-island-82982.herokuapp.com/
+Link- https://whispering-island-82982.herokuapp.com/
